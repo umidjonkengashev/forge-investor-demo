@@ -1,15 +1,15 @@
 {
   "name": "FORGE — Steelworks Investor Preview",
-  "short_name": "FORGE Preview",
-  "description": "Interactive concept demo for a steel plant investment project.",
-  "start_url": "./index.html",
+  "short_name": "FORGE Investor",
+  "description": "Interactive multilingual steelworks investment concept demo.",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "background_color": "#0d100e",
+  "theme_color": "#101410",
   "orientation": "any",
-  "background_color": "#101311",
-  "theme_color": "#101311",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
   ]
 }
